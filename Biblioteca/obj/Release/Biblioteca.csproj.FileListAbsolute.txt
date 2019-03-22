@@ -1,0 +1,188 @@
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\Biblioteca.dll.config
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\Biblioteca.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\Biblioteca.pdb
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\csc.exe
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\csc.exe.config
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\csc.rsp
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\csi.exe
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\csi.exe.config
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\csi.rsp
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.AppContext.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Console.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.IO.Compression.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.IO.Pipes.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Security.Claims.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.ValueTuple.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Xml.XPath.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\vbc.exe
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\vbc.exe.config
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\vbc.rsp
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\VBCSCompiler.exe
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\Antlr3.Runtime.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\EntityFramework.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\EntityFramework.SqlServer.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\EPPlus.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\Newtonsoft.Json.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\System.Web.Helpers.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\System.Web.Mvc.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\System.Web.Optimization.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\System.Web.Razor.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\System.Web.WebPages.Deployment.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\System.Web.WebPages.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\System.Web.WebPages.Razor.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\WebGrease.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\EntityFramework.xml
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\EntityFramework.SqlServer.xml
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\EPPlus.xml
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\System.Web.Helpers.xml
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\System.Web.Mvc.xml
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\System.Web.Optimization.xml
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\System.Web.Razor.xml
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\System.Web.WebPages.xml
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\System.Web.WebPages.Deployment.xml
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\System.Web.WebPages.Razor.xml
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\Newtonsoft.Json.xml
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\Antlr3.Runtime.pdb
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\es\System.Web.Helpers.resources.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\es\System.Web.Mvc.resources.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\es\System.Web.Optimization.resources.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\es\System.Web.Razor.resources.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\es\System.Web.WebPages.resources.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\obj\Release\Biblioteca.csprojAssemblyReference.cache
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\obj\Release\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\obj\Release\Biblioteca.csproj.CopyComplete
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\obj\Release\Biblioteca.dll
+C:\Users\edgardo\source\repos\Biblioteca\Biblioteca\obj\Release\Biblioteca.pdb
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\Biblioteca.dll.config
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\Biblioteca.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\Biblioteca.pdb
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\csc.exe
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\csc.exe.config
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\csc.rsp
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\csi.exe
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\csi.exe.config
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\csi.rsp
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.AppContext.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Console.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.IO.Compression.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.IO.Pipes.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Security.Claims.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.ValueTuple.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Xml.XPath.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\vbc.exe
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\vbc.exe.config
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\vbc.rsp
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\VBCSCompiler.exe
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\Antlr3.Runtime.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\EntityFramework.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\EntityFramework.SqlServer.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\EPPlus.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\Newtonsoft.Json.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\System.Web.Helpers.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\System.Web.Mvc.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\System.Web.Optimization.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\System.Web.Razor.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\System.Web.WebPages.Deployment.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\System.Web.WebPages.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\System.Web.WebPages.Razor.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\WebGrease.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\EntityFramework.xml
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\EntityFramework.SqlServer.xml
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\EPPlus.xml
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\System.Web.Helpers.xml
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\System.Web.Mvc.xml
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\System.Web.Optimization.xml
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\System.Web.Razor.xml
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\System.Web.WebPages.xml
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\System.Web.WebPages.Deployment.xml
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\System.Web.WebPages.Razor.xml
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\Newtonsoft.Json.xml
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\Antlr3.Runtime.pdb
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\es\System.Web.Helpers.resources.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\es\System.Web.Mvc.resources.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\es\System.Web.Optimization.resources.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\es\System.Web.Razor.resources.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\es\System.Web.WebPages.resources.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\obj\Release\Biblioteca.csprojAssemblyReference.cache
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\obj\Release\Biblioteca.Migrations.Primera.resources
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\obj\Release\Biblioteca.csproj.GenerateResource.cache
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\obj\Release\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\obj\Release\Biblioteca.csproj.CopyComplete
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\obj\Release\Biblioteca.dll
+C:\Users\edgardo\Desktop\Biblioteca - copia (2)\Biblioteca\obj\Release\Biblioteca.pdb
